@@ -1,0 +1,11 @@
+/* Importa os css da plugins aqui */
+@import url(plugins/bootstrap/css/bootstrap.min.css);
+@import url(css/offcanvas.css);
+@import url(plugins/w3/w3.css);
+@import url(plugins/animation/animate.min.css);
+@import url(plugins/fresco.css);
+@import url(css/font-awesome.min.css);
+.MFashion {
+    color: chocolate !important;
+    text-shadow: 0 0 15px rgba(210, 105, 30, 0.5), 0 0 25px rgba(210, 105, 30, 0.5), 0 0 50px rgba(210, 105, 30, 0.5), 0 0 100px chocolate;
+}

@@ -1,0 +1,8 @@
+/* Importa os css da plugins aqui */
+@import url(plugins/w3/w3.css);
+@import url(plugins/fresco.css);
+@import url(fonts/font-awesome-4.7.0/css/font-awesome.min.css);
+.MFashion {
+    color: chocolate !important;
+    text-shadow: 0 0 15px rgba(210, 105, 30, 0.5), 0 0 25px rgba(210, 105, 30, 0.5), 0 0 50px rgba(210, 105, 30, 0.5), 0 0 100px chocolate;
+}
