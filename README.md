@@ -82,9 +82,6 @@ Abaixo está um vídeo demonstrando as funcionalidades da plataforma MFashion & 
   <source src="./Demo.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
-
-*Nota*: Para visualizar o vídeo no GitHub, certifique-se de que o arquivo `Demo.mp4` está na raiz do repositório. Se hospedado em outra plataforma (ex.: YouTube), substitua pelo link correspondente.
-
 ## Como Usar
 
 - **Página Inicial**: Acesse `/` para ver a apresentação da agência.
